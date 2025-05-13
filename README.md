@@ -1,4 +1,4 @@
-# Algorihms
+# Algorithms
 
 1. Linear & Binary Search Comparision <br>
 2. Time complexities <br>
