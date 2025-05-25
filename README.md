@@ -6,3 +6,7 @@
 4. Merge Sort <br>
 5. Quick Sort <br>
 6. Warshall's Algorithm | Floyd-Warshall Algorithm <br>
+7. Horspool's Algorithm <br>
+8. 0/1 Knapsack Problem using Dynamic Programming <br>
+9. Kruskal's Algorithm <br>
+10. Dijkstra's algorithm <br>
