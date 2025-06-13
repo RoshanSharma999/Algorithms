@@ -1,4 +1,4 @@
-q#include <stdio.h>
+#include <stdio.h>
 #define MAX 10
 
 void warshall(int graph[MAX][MAX], int n) {
