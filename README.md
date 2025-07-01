@@ -10,3 +10,5 @@
 8. 0/1 Knapsack Problem using Dynamic Programming <br>
 9. Kruskal's Algorithm <br>
 10. Dijkstra's algorithm <br>
+11. BFS method <br>
+12. N-Queens <br>
